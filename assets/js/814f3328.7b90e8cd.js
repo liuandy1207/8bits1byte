@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_8_b1_b=self.webpackChunk_8_b1_b||[]).push([["833"],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hello World!","permalink":"/8bits1byte/blog/hello-world","unlisted":false,"date":"2026-05-31T00:00:00.000Z"}]}')}}]);
