@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_8_b1_b=self.webpackChunk_8_b1_b||[]).push([["2329"],{478(e){e.exports=JSON.parse('{"tags":[{"label":"Hello","permalink":"/8bits1byte/blog/tags/hello","description":"Hello tag description","count":1}]}')}}]);

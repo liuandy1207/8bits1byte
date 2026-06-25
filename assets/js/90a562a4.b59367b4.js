@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_8_b1_b=self.webpackChunk_8_b1_b||[]).push([["3122"],{5357(e){e.exports=JSON.parse('{"metadata":{"permalink":"/8bits1byte/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
